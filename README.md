@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Jinnatul Islam Tain
 #### Python Developer
-![Python Developer]
+[Python Developer]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / HTML / CSS
 
